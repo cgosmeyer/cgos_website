@@ -1,2 +1,3 @@
 # cgos_website
-Django website to host portfolio.
+
+Django website to host C. Gosmeyer's portfolio.
